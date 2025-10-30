@@ -1,6 +1,6 @@
 <h1>ALX Backend Web Development Learner</h1> </br>
 <h2>About Me</h2> </br>
-I am an ALX Backend Web Development learner, passionate about building robust, efficient, and scalable web applications. My journey in software engineering is driven by a profound interest in how technology shapes our world and connects us.<br>
+A Backend Web Developer, passionate about building robust, efficient, and scalable web applications. My journey in software engineering is driven by a profound interest in how technology shapes our world and connects us.<br>
 
 <h2>My Journey into Software Engineering</h2> <br>
 My fascination with how computers, the internet, and websites interact ignited my passion for software engineering. I've always been intrigued by the underlying architecture that powers the digital experiences we use daily. This curiosity led me to embark on a rigorous learning path to understand and contribute to this dynamic field.<br>
