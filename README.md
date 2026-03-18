@@ -1,20 +1,55 @@
 <h1>Full Stack Web Developer</h1> </br>
 <h2>About Me</h2> </br>
-I am a Full Stack Web Developer passionate about building robust, efficient, and scalable web applications. I enjoy working across the entire development stack—crafting intuitive user interfaces on the frontend while designing powerful, secure, and reliable systems on the backend. My journey in software engineering is driven by curiosity, problem-solving, and a desire to create impactful digital experiences.<br>
+I am a Full Stack Web Developer with hands-on experience building complete, real-world web applications from the ground up. I specialize in developing responsive user interfaces on the frontend and designing secure, scalable backend systems that power them.
+
+I’ve worked across the full development lifecycle — from structuring databases and building RESTful APIs to integrating them with modern frontend applications. My focus is on writing clean, maintainable code and delivering systems that are both efficient and reliable.<br>
 
 <h2>My Journey into Software Engineering</h2> <br>
-My fascination with how computers, the internet, and web applications interact sparked my interest in software engineering. I’ve always been intrigued by both the visible parts of applications users interact with and the hidden systems that power them behind the scenes. This curiosity led me down a structured learning path where I developed skills in frontend development, backend engineering, and system design.<br>
+My journey into software engineering started with a deep curiosity about how web applications work — not just what users see, but how everything functions behind the scenes.
 
-<h2>Passions & Inspirations</h2> <br>
-I am deeply inspired by the synergy between frontend interfaces and backend systems. I enjoy transforming ideas into responsive, user-friendly designs while ensuring that the underlying architecture is efficient, scalable, and secure. I am particularly passionate about building systems that feel seamless to users while remaining powerful and well-structured under the hood.<br>
+Over time, I moved beyond learning concepts to building complete applications, gaining practical experience in frontend development, backend engineering, API design, and database management. This hands-on experience has strengthened my ability to think through real-world problems and implement structured, working solutions.<br>
 
-<h2>Goals</h2><br>
-My professional goals focus on becoming a well-rounded and highly effective Full Stack Developer:<br>
-✅ Design and build clean, responsive, and accessible frontend interfaces that deliver excellent user experiences.<br>
-✅ Proficiently master APIs and create clear, efficient RESTful services that connect frontend and backend systems.<br>
-✅ Become skilled in database management, working with both SQL (e.g., PostgreSQL) and NoSQL (e.g., MongoDB) to build scalable data solutions.<br>
-✅ Implement secure authentication and authorization systems to protect user data and application integrity.<br>
-✅ Master modern backend frameworks such as Express.js or Django to build maintainable and scalable applications.<br>
+<h2>Passions & Approach</h2> <br>
+I am passionate about building systems that are not only functional but well-structured and scalable.
+
+I enjoy:
+
+Designing clean, intuitive user interfaces
+
+Building robust backend systems and APIs
+
+Structuring databases for efficiency and growth
+
+Solving real-world problems through code
+
+I approach development with a balance between performance, security, and user experience, ensuring that every part of an application works seamlessly together.<br>
+
+<h2> Technical Strengths </h2>
+Building full-stack web applications using Django and React
+
+Designing and implementing RESTful APIs
+
+Developing responsive interfaces with HTML, CSS, JavaScript, and Tailwind CSS
+
+Working with databases like PostgreSQL
+
+Implementing authentication and authorization systems
+
+Debugging, optimizing performance, and improving application reliability<br>
+
+
+<h2> Professional Goals </h2><br>
+I am focused on growing into a highly efficient and dependable full stack developer capable of delivering production-ready systems.
+
+My goals include:
+
+Building scalable and maintainable full-stack applications
+
+Writing clean, reusable, and well-documented code
+
+Improving system design and architecture skills
+
+Continuously learning and applying modern best practices<br>
 
 <h2>Current Focus</h2><br>
-I am currently focused on strengthening my full-stack development workflow, with an emphasis on building well-designed RESTful APIs and integrating them seamlessly with frontend applications. This includes improving API design, optimizing performance, enhancing security, and delivering smooth end-to-end user experiences.
+I am currently focused on refining my full-stack development workflow by building and deploying real-world applications. This includes improving API performance, strengthening backend architecture, and creating smooth integrations between frontend and backend systems.
